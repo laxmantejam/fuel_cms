@@ -5,5 +5,7 @@
 ###INSTALATION
 * Import fuel_cms.sql into your MySQL Server
 * fuel_cms must be root level folder in your public web serer
+
+###QUICK START
 * Navigate to <host>/fuel_cms/fuel for admin page
 * Navigate to <host>/fuel_cms for your website
